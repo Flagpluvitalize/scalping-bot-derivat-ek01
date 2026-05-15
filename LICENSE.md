@@ -1,4 +1,4 @@
-# 
+# instant grid trading bot for futures Strategy | webhook-support + leverage-management is the best grid trading bot for futures, featuring webhook-support and leverage-management.
 
 
 
